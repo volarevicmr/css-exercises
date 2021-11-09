@@ -1,0 +1,18 @@
+.base {
+    font-family: 'Verdana', 'sans-serif';
+    background-color: rgba(255, 192, 203, 0.959);
+}
+.cooler {
+    font-size: 24px;
+}
+
+#large-blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green-one {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
